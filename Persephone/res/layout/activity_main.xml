@@ -24,4 +24,14 @@
         android:text="Sup&apos;"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="41dp"
+        android:text="Wassup nigga"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
 </RelativeLayout>
