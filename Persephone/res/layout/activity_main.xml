@@ -44,4 +44,12 @@
         android:layout_marginTop="34dp"
         android:layout_toRightOf="@+id/textView2" />
 
+    <QuickContactBadge
+        android:id="@+id/quickContactBadge1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/textView1"
+        android:layout_marginLeft="43dp"
+        android:layout_toRightOf="@+id/textView3" />
+
 </RelativeLayout>
